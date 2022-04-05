@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.25c0dfd1.css",
+    "main.js": "./static/js/main.72ace397.js",
+    "static/media/VifaOtc.png": "./static/media/VifaOtc.516056d4d595dd79645d.png",
+    "static/media/townhub.webp": "./static/media/townhub.baf45cf0c2eaeb4c013a.webp",
+    "static/media/citybook.webp": "./static/media/citybook.ad4382d7d1ed4f08b5d6.webp",
+    "static/media/easybook.webp": "./static/media/easybook.5e56147178c8233f838e.webp",
+    "static/media/PXaas.webp": "./static/media/PXaas.02fe79e49141b25cc785.webp",
+    "static/media/Archia.webp": "./static/media/Archia.d56356ea95395eef55c5.webp",
+    "static/media/avatar.jpg": "./static/media/avatar.9bbc790b925bacdf6ce0.jpg",
+    "index.html": "./index.html",
+    "main.25c0dfd1.css.map": "./static/css/main.25c0dfd1.css.map",
+    "main.72ace397.js.map": "./static/js/main.72ace397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25c0dfd1.css",
+    "static/js/main.72ace397.js"
+  ]
+}
